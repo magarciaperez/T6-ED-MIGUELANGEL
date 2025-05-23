@@ -29,7 +29,7 @@ public class Tarea6EDClase {
     private static final int DESCUENTO_POR_CANTIDAD = 5;
 
     private void imprimirTotal(double Total) {
-        System.out.println("El total a pagar es:" + Total);
+        System.out.println("El total que hay que pagar es:" + Total);
         System.out.println("Enviado");
     }
 }
